@@ -1,7 +1,6 @@
 Ejercicio 4
 4. Utilizando funciones crear un programa que represente, a través de una estructura, puntos en tres dimensiones. 
-Se pide diseñar funcionespara resolver las siguientes
-operaciones:
+Se pide diseñar funcione spara resolver las siguientes operaciones:
 a. Suma de dos puntos.
 b. Distancia al origen.
 c. Producto vectorial.
